@@ -1,0 +1,7 @@
+{
+  "name": "Housekeeping Management System",
+  "description": "Professional hospitality management system for requests, inventory, and staff rosters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
